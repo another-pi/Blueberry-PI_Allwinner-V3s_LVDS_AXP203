@@ -1,5 +1,21 @@
-Blueberry PI
+Blueberry PI 7.1
+================
 
+Added:
+------
+* LVDS interface with cheap SN65LVDS84 serialiser,
+* resistive touchscreen controller TSC2003 + pinheader for resistive touch,
+* flash w25q128,
+* more popular MicroSD card slot,
+* datasheets for them
+
+Removed:
+--------
+* pinheader for OV7670
+
+
+Blueberry PI
+============
 Another fruit single board computer (SBC), based on the Allwinner V3s system on a chip (SOC). 
 The Allwinner V3s comes in an easy to solder 128pin TQFP package. 
 
