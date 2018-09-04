@@ -1,3 +1,8 @@
+Blueberry Pi 7.1+axp203
+=======================
+is the Blueberry Pi 7.1 board but with AXP203 power controller, not EA3036. and has DC-DC step down (5-12v) on power input.
+
+
 Blueberry PI 7.1
 ================
 
