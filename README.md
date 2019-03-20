@@ -22,12 +22,15 @@ Blueberry Pi 7.1.1+ESP32-S
 List of compatible (and cheap) LCDs (with touchscreens)
 =======================================================
 * ? 7" -- MDT7000
+* 7" -- TKR7040B
+* 7" -- GL070009T0-40
 * 6" -- KD060G1-40nc-a5
 * 5" -- HSD050IDW1-A20
 * 5" -- MH0506D
 * 5" -- KD50G21-40NT-A1
 * 5" -- A26TF9C032169 * A0 -A20
 * 5" -- H-H050L-12M
+* 5" -- GL050001C0-40
 
 (
 * 6" -- texet tn-811bt
