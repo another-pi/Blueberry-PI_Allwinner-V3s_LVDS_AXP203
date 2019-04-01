@@ -1,6 +1,9 @@
 precompiled Linux-4.10.15 SD-image with support of fb-graphics an resistive touch:
 https://github.com/bhgv/linux/releases/tag/1.0a
 
+[](Img/bbpi-infr-fb-touch.jpg)
+
+
 Blueberry Pi 7.1.2.esp32.no-lan
 ===============================
 (not finished yet)
