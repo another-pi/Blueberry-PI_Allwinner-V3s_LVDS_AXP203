@@ -1,3 +1,6 @@
+sources of Linux kernel (4.10.15) for this board(s). preconfigured:
+https://github.com/bhgv/linux
+
 precompiled Linux-4.10.15 SD-image with support of fb-graphics an resistive touch:
 https://github.com/bhgv/linux/releases/tag/1.0a
 
