@@ -1,3 +1,8 @@
+main build board now is `Blueberry Pi 7.1.2.esp32.no-lan.gsm-a9g`. because `a9g` gsm module is much better then `sim800c`. because of open source SDK and support of GPS.
+
+but still work-in-progress. not finished.
+
+
 sources of Linux kernel (4.10.15) for this board(s). preconfigured:
 https://github.com/bhgv/linux
 
