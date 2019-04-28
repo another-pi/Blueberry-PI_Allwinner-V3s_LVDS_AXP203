@@ -36,13 +36,24 @@ List of compatible (and cheap) LCDs (with touchscreens)
 * ? 7" -- MDT7000
 * 7" -- TKR7040B
 * 7" -- GL070009T0-40
+
 * 6" -- KD060G1-40nc-a5
+* 6" -- TM060RDH02
+
 * 5" -- HSD050IDW1-A20
 * 5" -- MH0506D
 * 5" -- KD50G21-40NT-A1
 * 5" -- A26TF9C032169 * A0 -A20
 * 5" -- H-H050L-12M
 * 5" -- GL050001C0-40
+* 5" -- ft050s800480005n-v01
+* 5" -- HW800480F-0F-0L-20
+* 5" -- hw800480f-0f-0l-10
+* 5" -- T050SWV012T
+* 5" -- T050SWV015T
+* 5" -- FC050S151-01
+* 5" -- KD50G23-40NB-A1
+* 5" -- HLY050ML115-12A
 
 (
 * 6" -- texet tn-811bt
